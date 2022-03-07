@@ -1,0 +1,12 @@
+[submodule "310552013_np_project1"]
+	path = 310552013_np_project1
+	url = https://github.com/eric5800602/NCTU_NetwrokProgramming_2021_Project1.git
+[submodule "310552013_np_project2"]
+	path = 310552013_np_project2
+	url = https://github.com/eric5800602/NCTU_NetwrokProgramming_2021_Project2.git
+[submodule "310552013_np_project3"]
+	path = 310552013_np_project3
+	url = https://github.com/eric5800602/NCTU_NetwrokProgramming_2021_Project3.git
+[submodule "310552013_np_project4"]
+	path = 310552013_np_project4
+	url = https://github.com/eric5800602/NCTU_NetwrokProgramming_2021_Project4.git
